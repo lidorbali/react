@@ -87,6 +87,6 @@ li a:hover:not(.active) {
 footer {
   text-align: center;
   padding: 3px;
-  background-color: DarkSalmon;
+  background-color: rgb(122, 122, 122);
   color: white;
 }
